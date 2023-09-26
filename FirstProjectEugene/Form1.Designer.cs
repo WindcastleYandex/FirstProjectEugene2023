@@ -33,9 +33,9 @@
             // 
             // sbStart
             // 
-            this.sbStart.Location = new System.Drawing.Point(56, 13);
+            this.sbStart.Location = new System.Drawing.Point(12, 12);
             this.sbStart.Name = "sbStart";
-            this.sbStart.Size = new System.Drawing.Size(75, 23);
+            this.sbStart.Size = new System.Drawing.Size(196, 23);
             this.sbStart.TabIndex = 0;
             this.sbStart.Text = "Старт";
             // 
